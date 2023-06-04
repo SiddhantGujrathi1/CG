@@ -1,8 +1,7 @@
 # CG
 Computer Graphics SEM3 Computer Engineering SPPU
 
-=
-                     Name        : Assignment_1.cpp 
+Name        : Assignment_1.cpp 
 =
 
 Problem Statement:
@@ -10,15 +9,13 @@ Write C++ program to draw a concave polygon and fill it with the desired color u
 the scan fill algorithm. Apply the concept of inheritance
 
 
-=
-                     Name        : Assignment_2.cpp
+Name        : Assignment_2.cpp
 =
 Problem Statement: Write C++ program to implement Cohen Southerland line
 clipping algorithm.
 
 
-=
-                     Name        : Assignment_3.cpp
+Name        : Assignment_3.cpp
 =
 	Problem Statement: 
 	Write C++ program to draw the following pattern. Use
@@ -26,8 +23,7 @@ clipping algorithm.
 	encapsulation.
 
 
-=
-                     Name        : Assignment_4.cpp
+Name        : Assignment_4.cpp
 =
 	Problem Statement: 
 	Write C++ program to draw 2-D object and perform
@@ -35,25 +31,20 @@ clipping algorithm.
 	concept of operator overloading.
 
 
-=
-                     Name        : Assignment_5.cpp
+Name        : Assignment_5.cpp
 =
 	Problem Statement: 
 	Write C++ program to generate fractal patterns by using
 	Koch curves.
 
 
-=
-                     Name        : Assignment_6.cpp
+Name        : Assignment_6.cpp
 =
 	Problem Statement: 
 	Write OpenGL program to draw Sun Rise and Sunset
 
 
-
-
-=
-                     Name        : Assignment_7.cpp
+Name        : Assignment_7.cpp
 =
 	Problem Statement: 
 	Write C++ program to draw man walking in the rain with
